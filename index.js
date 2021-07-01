@@ -3,7 +3,7 @@ const { Client, Collection } = require("discord.js");
 const db = require("quick.db")
 const fs = require("fs");
 const { MessageEmbed } = require("discord.js")
-const token = "ODU2NTU0NTI3NTE1MDgyNzcy.YNCukQ.dEe03UsmQdqe0MJQoQvYPw7Itjw";
+const token = "";
 
 const client = new Client({
     disableEveryone: true
